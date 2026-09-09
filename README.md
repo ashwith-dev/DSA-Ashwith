@@ -2,7 +2,7 @@
 
 **Language:** Java Script  
 **Started:** 09-09-2026  
-**Goal:** Develop strong problem-solving and DSA skills through consistent practice, revision, and reflection.
+**Goal:** Develop strong problem-solving and DSA skills through consistent practice, revision,
 
 ---
 
